@@ -1,0 +1,67 @@
+.title{
+    margin: 5px;
+    padding: 5px;
+    width:100%;
+    text-align: center;
+    border: 1px;
+    border-radius: 10px;
+    box-shadow:  2px 2px 2px 2px black
+}
+
+.description{
+    margin-top: 30px;
+    padding: 30px;
+    width: center;
+    text-align: center;
+    border: 1px;
+    border-radius: 10px;
+    box-shadow:  3px 3px 3px 3px black
+}
+
+#btn{
+    margin-top: 10px;
+    width: 100px;
+    background: red;
+    color: black;
+}
+
+#output-box{
+    margin-top: 20px; 
+    padding-left: 40px;
+    
+}
+
+.card{
+    margin-bottom: 20px;  
+    box-shadow: 10px 10px 10px rgb(250, 248, 248);
+    background:#85d6d6
+}
+
+.card:hover{
+    margin-bottom: 20px;  
+    box-shadow: 15px 15px 15px black
+}
+
+.card-header{
+    text-align: center;
+}
+
+.card-body{
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.pokemon-img{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 50%;
+    border-radius: 50%;
+}
